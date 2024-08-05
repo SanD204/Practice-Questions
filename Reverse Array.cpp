@@ -17,6 +17,9 @@ int reverse(int arr[], int n){
 }
 int main() {
     int arr[5] = {5,3,4,6,7};
+
     reverse(arr,5);
+
+    
     return 0;
 }
