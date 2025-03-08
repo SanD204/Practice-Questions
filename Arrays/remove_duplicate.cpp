@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 
+//sort the array if duplicated is at multiple locations.
+
 using namespace std;
 int removeDuplicates(int arr[], int n)
 {
